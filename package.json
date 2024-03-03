@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "workshop_junior",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "npx playwright test"
+  },
   "keywords": [],
   "author": "Inna Bedenok <inna.bedenok@gmail.com>",
   "license": "ISC",
